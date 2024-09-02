@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Fri Feb  9 16:04:26 2024
+# Process ID: 1996
+# Current directory: C:/Users/fka5155/OneDrive - The Pennsylvania State University/lab_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4396 C:\Users\fka5155\OneDrive - The Pennsylvania State University\lab_1\lab_1.xpr
+# Log file: C:/Users/fka5155/OneDrive - The Pennsylvania State University/lab_1/vivado.log
+# Journal file: C:/Users/fka5155/OneDrive - The Pennsylvania State University/lab_1\vivado.jou
+# Running On: E5-CSE-136-12, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 8, Host memory: 16888 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/fka5155/OneDrive - The Pennsylvania State University/lab_1/lab_1.xpr}
+update_compile_order -fileset sources_1
+archive_project {C:/Users/fka5155/OneDrive - The Pennsylvania State University/lab_1.xpr.zip} -temp_dir {C:/Users/fka5155/OneDrive - The Pennsylvania State University/lab_1/.Xil/Vivado-1996-E5-CSE-136-12} -force -include_local_ip_cache

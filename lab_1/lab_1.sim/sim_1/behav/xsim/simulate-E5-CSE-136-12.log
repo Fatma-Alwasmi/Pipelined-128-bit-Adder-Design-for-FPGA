@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+                  10         0 +         0 = X
+                  20        21 +        21 = X
+                  30        14 +        11 = X
+                  40       300 +       300 = X
+$finish called at time : 280 ns : File "C:/Users/fka5155/Desktop/lab_1/lab_1.srcs/sim_1/new/testbench.v" Line 35
