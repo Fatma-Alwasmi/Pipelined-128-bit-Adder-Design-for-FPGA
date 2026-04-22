@@ -1,6 +1,3 @@
-# 🚀 EE/CMPEN 417 - Field Programmable Devices: Lab 1 - Spring 2024
-
-
 ## 📜 Project Overview
 
 In this lab, I explored different adder designs using various techniques discussed in class, and analyzed the performance of each design through static timing analysis. The lab consists of five main parts, along with an extra credit section. Each part builds upon the previous one, allowing us to deepen our understanding of adder architectures and their impact on performance.
